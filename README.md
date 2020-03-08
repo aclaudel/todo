@@ -30,3 +30,4 @@
 
 - [Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
 - Agility [Values](https://agilemanifesto.org/) & [Principles](https://agilemanifesto.org/principles.html)
+- [Extreme Programming Values](http://www.extremeprogramming.org/values.html)
